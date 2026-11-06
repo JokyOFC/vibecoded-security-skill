@@ -1,0 +1,12 @@
+{
+  "name": "vibecoded-security",
+  "description": "Interactive security audit for AI-generated (vibe-coded) systems: scoping with effort and cost estimates against your Claude plan and deadline, full-system audit (web, API, database, mobile, infra, automations), AI chatbot and agent security, and guardrails injected into CLAUDE.md/AGENTS.md. Every fix goes through a compatibility gate so legitimate processes are never blocked. Replies in Brazilian Portuguese.",
+  "version": "1.0.0",
+  "author": {
+    "name": "JokyOFC",
+    "url": "https://github.com/JokyOFC"
+  },
+  "homepage": "https://github.com/JokyOFC/vibecoded-security-skill",
+  "repository": "https://github.com/JokyOFC/vibecoded-security-skill",
+  "keywords": ["security", "audit", "vibe-coding", "owasp", "llm-security", "ai-agents", "supabase", "nextjs", "lgpd"]
+}

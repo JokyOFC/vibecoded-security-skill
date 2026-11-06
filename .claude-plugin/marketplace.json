@@ -1,0 +1,15 @@
+{
+  "name": "vibecoded-security-skill",
+  "description": "Security audit, scoping and guardrails for AI-generated (vibe-coded) systems, including AI chatbots and agents",
+  "owner": {
+    "name": "JokyOFC",
+    "url": "https://github.com/JokyOFC"
+  },
+  "plugins": [
+    {
+      "name": "vibecoded-security",
+      "source": "./plugins/vibecoded-security",
+      "description": "Interactive security audit for vibe-coded systems: scoping with effort/cost estimates, full-system audit, AI chatbot/agent security and project guardrails that never block legitimate processes"
+    }
+  ]
+}

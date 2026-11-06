@@ -1,0 +1,6 @@
+# Scripts must keep LF endings so they run on macOS/Linux/WSL even when cloned on Windows
+*.sh   text eol=lf
+*.sql  text eol=lf
+*.md   text eol=lf
+*.mdc  text eol=lf
+*.json text eol=lf
